@@ -1,2 +1,4 @@
 # Gravitienture
-A cool video game created by Unity engine
+A cool 2.5D video game let you player with Gravity 
+Assistive Ai feature will be introduced
+Supported by Unity Engine
